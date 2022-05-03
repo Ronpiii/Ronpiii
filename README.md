@@ -8,4 +8,5 @@
 Ronpiii/Ronpiii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-My Resume/CV [Ronald ventsel (1).pdf](https://github.com/Ronpiii/Ronpiii/files/7717525/Ronald.ventsel.1.pdf)
+My Resume/CV -> [Curriculum Vitae, Ronald Ventsel, ENG.pdf](https://github.com/Ronpiii/Ronpiii/files/8609430/Curriculum.Vitae.Ronald.Ventsel.ENG.pdf)
+
